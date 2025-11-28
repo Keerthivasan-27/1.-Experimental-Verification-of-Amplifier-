@@ -1,5 +1,5 @@
 #**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
-**DATE:**  
+**DATE:**12/08/2025  
 ---
 
 ## AIM
@@ -51,7 +51,7 @@ PIN DIAGRAM
 <img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+![WhatsApp Image 2025-11-24 at 17 19 17_e985eea8](https://github.com/user-attachments/assets/26a7371f-ad89-4c83-9359-a4a23733c699)
 
 MODEL GRAPH 
 
@@ -69,7 +69,7 @@ Rf =10 R1
 Choose R1 = 1kΩ, Rf=10kΩ
 
 ![WhatsApp Image 2025-11-24 at 17 19 58_2fa558ae](https://github.com/user-attachments/assets/1f6b6e77-aad4-4c70-ab3d-2968417af9aa)
-![WhatsApp Image 2025-11-24 at 17 19 17_e985eea8](https://github.com/user-attachments/assets/26a7371f-ad89-4c83-9359-a4a23733c699)
+
 
 PROCEDURE:
 Inverting amplifier:
@@ -111,9 +111,9 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
-
 ![WhatsApp Image 2025-11-24 at 17 19 32_396b1530](https://github.com/user-attachments/assets/7ae8130e-8f2a-4327-b8cc-3ed1641afe5a)
+
+DESIGN
 
 ![WhatsApp Image 2025-11-24 at 17 20 03_01c995de](https://github.com/user-attachments/assets/9478e321-68e4-4d53-8fce-a1113940728b)
 
@@ -155,7 +155,6 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-<img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
 
 ![WhatsApp Image 2025-11-24 at 17 32 20_054697e5](https://github.com/user-attachments/assets/d6d92e0f-a2dc-4328-b8f6-bc7e5e17e73e)
 
@@ -167,7 +166,6 @@ A = Vo/{V2 - V1} = -Rf/R1
 ## DESIGN
 ![WhatsApp Image 2025-11-24 at 17 20 15_7ca3b4c9](https://github.com/user-attachments/assets/c8878848-3b16-4d33-848a-82e67f7d025d)
 
-![WhatsApp Image 2025-11-24 at 17 32 20_d01dbbf9](https://github.com/user-attachments/assets/9c686621-f6a7-40cc-8d35-4492eb6f3c52)
 
 ### **Differential Amplifier**
 
@@ -218,9 +216,10 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
 
 ![WhatsApp Image 2025-11-24 at 17 19 50_d4f8b507](https://github.com/user-attachments/assets/a45068e9-52bf-40f1-a9a8-9a4eaa3e6d46)
+
+DESIGN
 
 ![WhatsApp Image 2025-11-24 at 17 20 20_2f7824d7](https://github.com/user-attachments/assets/59abdbb7-ad0d-4587-9d74-191743bc6eb9)
 
